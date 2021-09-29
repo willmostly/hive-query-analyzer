@@ -1,0 +1,1 @@
+SELECT year(foo) from bar r INNER JOIN biz z on r.gloo = z.glaw
